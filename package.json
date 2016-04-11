@@ -1,0 +1,19 @@
+{
+  "name": "rotten-tomatoes-story",
+  "version": "1.0.0",
+  "description": "Rotten Tomatoes story that will be put on nathanlawrence.org.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanLawrence/rotten-tomatoes-story.git"
+  },
+  "author": "nathan@nathanlawrence.org",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/NathanLawrence/rotten-tomatoes-story/issues"
+  },
+  "homepage": "https://github.com/NathanLawrence/rotten-tomatoes-story#readme"
+}
